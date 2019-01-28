@@ -1,4 +1,4 @@
-# Location-based-Health
+# Location-based-Health Prediction
 Prediction of lifestyle based on location 
 
 Data Analysis Process
