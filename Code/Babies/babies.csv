@@ -1,0 +1,532 @@
+﻿State,State Code,County,County Code,Birthplace,Birthplace Code,Delivery,Delivery Method Code,Deaths,Births,Death Rate,rate
+California,6,"Alameda County, CA",6001,In Hospital,1,Vaginal,1,43,13661,3.15,0.314764659
+California,6,"Alameda County, CA",6001,In Hospital,1,Cesarean,2,31,5494,5.64,0.564251911
+California,6,"Alameda County, CA",6001,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Alameda County, CA",6001,Not in Hospital,2,Vaginal,1,0,278,0,0
+California,6,"Alameda County, CA",6001,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Alameda County, CA",6001,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Alameda County, CA",6001,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Alameda County, CA",6001,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Alameda County, CA",6001,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Contra Costa County, CA",6013,In Hospital,1,Vaginal,1,24,8872,2.71,0.270513977
+California,6,"Contra Costa County, CA",6013,In Hospital,1,Cesarean,2,16,3605,4.44 (Unreliable),0.443828017
+California,6,"Contra Costa County, CA",6013,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Contra Costa County, CA",6013,Not in Hospital,2,Vaginal,1,0,119,0,0
+California,6,"Contra Costa County, CA",6013,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Contra Costa County, CA",6013,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Contra Costa County, CA",6013,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Contra Costa County, CA",6013,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Contra Costa County, CA",6013,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Fresno County, CA",6019,In Hospital,1,Vaginal,1,69,10022,6.88,0.688485332
+California,6,"Fresno County, CA",6019,In Hospital,1,Cesarean,2,44,5234,8.41,0.840657241
+California,6,"Fresno County, CA",6019,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Fresno County, CA",6019,Not in Hospital,2,Vaginal,1,0,102,0,0
+California,6,"Fresno County, CA",6019,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Fresno County, CA",6019,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Fresno County, CA",6019,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Fresno County, CA",6019,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Fresno County, CA",6019,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Kern County, CA",6029,In Hospital,1,Vaginal,1,63,9743,6.47,0.646618085
+California,6,"Kern County, CA",6029,In Hospital,1,Cesarean,2,30,3927,7.64,0.76394194
+California,6,"Kern County, CA",6029,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Kern County, CA",6029,Not in Hospital,2,Vaginal,1,0,98,0,0
+California,6,"Kern County, CA",6029,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Kern County, CA",6029,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Kern County, CA",6029,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Kern County, CA",6029,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Kern County, CA",6029,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Los Angeles County, CA",6037,In Hospital,1,Vaginal,1,269,79518,3.38,0.338288186
+California,6,"Los Angeles County, CA",6037,In Hospital,1,Cesarean,2,239,44171,5.41,0.541078988
+California,6,"Los Angeles County, CA",6037,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Los Angeles County, CA",6037,Not in Hospital,2,Vaginal,1,0,939,0,0
+California,6,"Los Angeles County, CA",6037,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Los Angeles County, CA",6037,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Los Angeles County, CA",6037,Unknown or Not Stated,3,Vaginal,1,0,13,0,0
+California,6,"Los Angeles County, CA",6037,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Los Angeles County, CA",6037,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Marin County, CA",6041,In Hospital,1,Vaginal,1,0,1668,0,0
+California,6,"Marin County, CA",6041,In Hospital,1,Cesarean,2,0,559,0,0
+California,6,"Marin County, CA",6041,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Marin County, CA",6041,Not in Hospital,2,Vaginal,1,0,61,0,0
+California,6,"Marin County, CA",6041,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Marin County, CA",6041,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Marin County, CA",6041,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Marin County, CA",6041,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Marin County, CA",6041,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Merced County, CA",6047,In Hospital,1,Vaginal,1,0,2647,0,0
+California,6,"Merced County, CA",6047,In Hospital,1,Cesarean,2,14,1435,9.76 (Unreliable),0.975609756
+California,6,"Merced County, CA",6047,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Merced County, CA",6047,Not in Hospital,2,Vaginal,1,0,22,0,0
+California,6,"Merced County, CA",6047,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Merced County, CA",6047,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Merced County, CA",6047,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Merced County, CA",6047,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Merced County, CA",6047,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Monterey County, CA",6053,In Hospital,1,Vaginal,1,22,4526,4.86,0.486080424
+California,6,"Monterey County, CA",6053,In Hospital,1,Cesarean,2,17,1827,9.30 (Unreliable),0.930487137
+California,6,"Monterey County, CA",6053,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Monterey County, CA",6053,Not in Hospital,2,Vaginal,1,0,67,0,0
+California,6,"Monterey County, CA",6053,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Monterey County, CA",6053,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Monterey County, CA",6053,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Monterey County, CA",6053,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Monterey County, CA",6053,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Orange County, CA",6059,In Hospital,1,Vaginal,1,70,24392,2.87,0.286979337
+California,6,"Orange County, CA",6059,In Hospital,1,Cesarean,2,44,12775,3.44,0.344422701
+California,6,"Orange County, CA",6059,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Orange County, CA",6059,Not in Hospital,2,Vaginal,1,0,442,0,0
+California,6,"Orange County, CA",6059,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Orange County, CA",6059,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Orange County, CA",6059,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Orange County, CA",6059,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Orange County, CA",6059,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Placer County, CA",6061,In Hospital,1,Vaginal,1,12,2705,4.44 (Unreliable),0.443622921
+California,6,"Placer County, CA",6061,In Hospital,1,Cesarean,2,0,953,0,0
+California,6,"Placer County, CA",6061,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Placer County, CA",6061,Not in Hospital,2,Vaginal,1,0,89,0,0
+California,6,"Placer County, CA",6061,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Placer County, CA",6061,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Placer County, CA",6061,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Placer County, CA",6061,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Placer County, CA",6061,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Riverside County, CA",6065,In Hospital,1,Vaginal,1,73,20255,3.6,0.360404838
+California,6,"Riverside County, CA",6065,In Hospital,1,Cesarean,2,44,10021,4.39,0.439077936
+California,6,"Riverside County, CA",6065,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Riverside County, CA",6065,Not in Hospital,2,Vaginal,1,0,214,0,0
+California,6,"Riverside County, CA",6065,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Riverside County, CA",6065,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Riverside County, CA",6065,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Riverside County, CA",6065,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Riverside County, CA",6065,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Sacramento County, CA",6067,In Hospital,1,Vaginal,1,52,13761,3.78,0.377879515
+California,6,"Sacramento County, CA",6067,In Hospital,1,Cesarean,2,39,5458,7.15,0.714547453
+California,6,"Sacramento County, CA",6067,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Sacramento County, CA",6067,Not in Hospital,2,Vaginal,1,0,204,0,0
+California,6,"Sacramento County, CA",6067,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Sacramento County, CA",6067,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Sacramento County, CA",6067,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Sacramento County, CA",6067,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Sacramento County, CA",6067,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"San Bernardino County, CA",6071,In Hospital,1,Vaginal,1,109,20211,5.39,0.539310277
+California,6,"San Bernardino County, CA",6071,In Hospital,1,Cesarean,2,55,10092,5.45,0.544986128
+California,6,"San Bernardino County, CA",6071,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"San Bernardino County, CA",6071,Not in Hospital,2,Vaginal,1,0,226,0,0
+California,6,"San Bernardino County, CA",6071,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"San Bernardino County, CA",6071,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"San Bernardino County, CA",6071,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"San Bernardino County, CA",6071,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"San Bernardino County, CA",6071,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"San Diego County, CA",6073,In Hospital,1,Vaginal,1,88,29081,3.03,0.302603074
+California,6,"San Diego County, CA",6073,In Hospital,1,Cesarean,2,70,14246,4.91,0.491365997
+California,6,"San Diego County, CA",6073,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"San Diego County, CA",6073,Not in Hospital,2,Vaginal,1,0,615,0,0
+California,6,"San Diego County, CA",6073,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"San Diego County, CA",6073,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"San Diego County, CA",6073,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"San Diego County, CA",6073,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"San Diego County, CA",6073,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"San Francisco County, CA",6075,In Hospital,1,Vaginal,1,19,6528,2.91 (Unreliable),0.291053922
+California,6,"San Francisco County, CA",6075,In Hospital,1,Cesarean,2,13,2286,5.69 (Unreliable),0.568678915
+California,6,"San Francisco County, CA",6075,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"San Francisco County, CA",6075,Not in Hospital,2,Vaginal,1,0,158,0,0
+California,6,"San Francisco County, CA",6075,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"San Francisco County, CA",6075,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"San Francisco County, CA",6075,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"San Francisco County, CA",6075,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"San Francisco County, CA",6075,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"San Joaquin County, CA",6077,In Hospital,1,Vaginal,1,34,6813,4.99,0.499045942
+California,6,"San Joaquin County, CA",6077,In Hospital,1,Cesarean,2,24,3120,7.69,0.769230769
+California,6,"San Joaquin County, CA",6077,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"San Joaquin County, CA",6077,Not in Hospital,2,Vaginal,1,0,50,0,0
+California,6,"San Joaquin County, CA",6077,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"San Joaquin County, CA",6077,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"San Joaquin County, CA",6077,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"San Joaquin County, CA",6077,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"San Joaquin County, CA",6077,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"San Luis Obispo County, CA",6079,In Hospital,1,Vaginal,1,0,1782,0,0
+California,6,"San Luis Obispo County, CA",6079,In Hospital,1,Cesarean,2,0,807,0,0
+California,6,"San Luis Obispo County, CA",6079,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"San Luis Obispo County, CA",6079,Not in Hospital,2,Vaginal,1,0,79,0,0
+California,6,"San Luis Obispo County, CA",6079,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"San Luis Obispo County, CA",6079,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"San Luis Obispo County, CA",6079,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"San Luis Obispo County, CA",6079,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"San Luis Obispo County, CA",6079,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"San Mateo County, CA",6081,In Hospital,1,Vaginal,1,15,6372,2.35 (Unreliable),0.235404896
+California,6,"San Mateo County, CA",6081,In Hospital,1,Cesarean,2,15,2608,5.75 (Unreliable),0.575153374
+California,6,"San Mateo County, CA",6081,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"San Mateo County, CA",6081,Not in Hospital,2,Vaginal,1,0,57,0,0
+California,6,"San Mateo County, CA",6081,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"San Mateo County, CA",6081,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"San Mateo County, CA",6081,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"San Mateo County, CA",6081,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"San Mateo County, CA",6081,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Santa Barbara County, CA",6083,In Hospital,1,Vaginal,1,17,3694,4.60 (Unreliable),0.460205739
+California,6,"Santa Barbara County, CA",6083,In Hospital,1,Cesarean,2,11,1886,5.83 (Unreliable),0.583244963
+California,6,"Santa Barbara County, CA",6083,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Santa Barbara County, CA",6083,Not in Hospital,2,Vaginal,1,0,93,0,0
+California,6,"Santa Barbara County, CA",6083,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Santa Barbara County, CA",6083,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Santa Barbara County, CA",6083,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Santa Barbara County, CA",6083,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Santa Barbara County, CA",6083,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Santa Clara County, CA",6085,In Hospital,1,Vaginal,1,42,16237,2.59,0.258668473
+California,6,"Santa Clara County, CA",6085,In Hospital,1,Cesarean,2,39,7012,5.56,0.55618939
+California,6,"Santa Clara County, CA",6085,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Santa Clara County, CA",6085,Not in Hospital,2,Vaginal,1,0,144,0,0
+California,6,"Santa Clara County, CA",6085,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Santa Clara County, CA",6085,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Santa Clara County, CA",6085,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Santa Clara County, CA",6085,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Santa Clara County, CA",6085,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Santa Cruz County, CA",6087,In Hospital,1,Vaginal,1,0,1913,0,0
+California,6,"Santa Cruz County, CA",6087,In Hospital,1,Cesarean,2,0,851,0,0
+California,6,"Santa Cruz County, CA",6087,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Santa Cruz County, CA",6087,Not in Hospital,2,Vaginal,1,0,76,0,0
+California,6,"Santa Cruz County, CA",6087,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Santa Cruz County, CA",6087,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Santa Cruz County, CA",6087,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Santa Cruz County, CA",6087,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Santa Cruz County, CA",6087,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Solano County, CA",6095,In Hospital,1,Vaginal,1,15,3675,4.08 (Unreliable),0.408163265
+California,6,"Solano County, CA",6095,In Hospital,1,Cesarean,2,0,1405,0,0
+California,6,"Solano County, CA",6095,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Solano County, CA",6095,Not in Hospital,2,Vaginal,1,0,51,0,0
+California,6,"Solano County, CA",6095,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Solano County, CA",6095,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Solano County, CA",6095,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Solano County, CA",6095,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Solano County, CA",6095,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Sonoma County, CA",6097,In Hospital,1,Vaginal,1,0,3518,0,0
+California,6,"Sonoma County, CA",6097,In Hospital,1,Cesarean,2,10,1294,7.73 (Unreliable),0.772797527
+California,6,"Sonoma County, CA",6097,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Sonoma County, CA",6097,Not in Hospital,2,Vaginal,1,0,203,0,0
+California,6,"Sonoma County, CA",6097,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Sonoma County, CA",6097,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Sonoma County, CA",6097,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Sonoma County, CA",6097,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Sonoma County, CA",6097,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Stanislaus County, CA",6099,In Hospital,1,Vaginal,1,26,5165,5.03,0.50338819
+California,6,"Stanislaus County, CA",6099,In Hospital,1,Cesarean,2,15,2491,6.02 (Unreliable),0.602167804
+California,6,"Stanislaus County, CA",6099,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Stanislaus County, CA",6099,Not in Hospital,2,Vaginal,1,0,41,0,0
+California,6,"Stanislaus County, CA",6099,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Stanislaus County, CA",6099,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Stanislaus County, CA",6099,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Stanislaus County, CA",6099,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Stanislaus County, CA",6099,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Tulare County, CA",6107,In Hospital,1,Vaginal,1,32,4863,6.58,0.658030023
+California,6,"Tulare County, CA",6107,In Hospital,1,Cesarean,2,16,2526,6.33 (Unreliable),0.63341251
+California,6,"Tulare County, CA",6107,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Tulare County, CA",6107,Not in Hospital,2,Vaginal,1,0,22,0,0
+California,6,"Tulare County, CA",6107,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Tulare County, CA",6107,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Tulare County, CA",6107,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Tulare County, CA",6107,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Tulare County, CA",6107,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Ventura County, CA",6111,In Hospital,1,Vaginal,1,27,6613,4.08,0.408286708
+California,6,"Ventura County, CA",6111,In Hospital,1,Cesarean,2,18,3303,5.45 (Unreliable),0.544959128
+California,6,"Ventura County, CA",6111,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Ventura County, CA",6111,Not in Hospital,2,Vaginal,1,0,144,0,0
+California,6,"Ventura County, CA",6111,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Ventura County, CA",6111,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Ventura County, CA",6111,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Ventura County, CA",6111,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Ventura County, CA",6111,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+California,6,"Unidentified Counties, CA",6999,In Hospital,1,Vaginal,1,82,19575,4.19,0.41890166
+California,6,"Unidentified Counties, CA",6999,In Hospital,1,Cesarean,2,78,9258,8.43,0.842514582
+California,6,"Unidentified Counties, CA",6999,In Hospital,1,Not Stated,9,0,0,0,0
+California,6,"Unidentified Counties, CA",6999,Not in Hospital,2,Vaginal,1,0,680,0,0
+California,6,"Unidentified Counties, CA",6999,Not in Hospital,2,Cesarean,2,0,0,0,0
+California,6,"Unidentified Counties, CA",6999,Not in Hospital,2,Not Stated,9,0,0,0,0
+California,6,"Unidentified Counties, CA",6999,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+California,6,"Unidentified Counties, CA",6999,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+California,6,"Unidentified Counties, CA",6999,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Brevard County, FL",12009,In Hospital,1,Vaginal,1,20,3468,5.77,0.576701269
+Florida,12,"Brevard County, FL",12009,In Hospital,1,Cesarean,2,11,1695,6.49 (Unreliable),0.648967552
+Florida,12,"Brevard County, FL",12009,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Brevard County, FL",12009,Not in Hospital,2,Vaginal,1,0,81,0,0
+Florida,12,"Brevard County, FL",12009,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Brevard County, FL",12009,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Brevard County, FL",12009,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Brevard County, FL",12009,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Brevard County, FL",12009,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Broward County, FL",12011,In Hospital,1,Vaginal,1,56,12365,4.53,0.452891225
+Florida,12,"Broward County, FL",12011,In Hospital,1,Cesarean,2,60,9620,6.24,0.623700624
+Florida,12,"Broward County, FL",12011,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Broward County, FL",12011,Not in Hospital,2,Vaginal,1,0,325,0,0
+Florida,12,"Broward County, FL",12011,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Broward County, FL",12011,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Broward County, FL",12011,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Broward County, FL",12011,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Broward County, FL",12011,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Collier County, FL",12021,In Hospital,1,Vaginal,1,0,1878,0,0
+Florida,12,"Collier County, FL",12021,In Hospital,1,Cesarean,2,13,1300,10.00 (Unreliable),1
+Florida,12,"Collier County, FL",12021,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Collier County, FL",12021,Not in Hospital,2,Vaginal,1,0,78,0,0
+Florida,12,"Collier County, FL",12021,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Collier County, FL",12021,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Collier County, FL",12021,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Collier County, FL",12021,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Collier County, FL",12021,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Duval County, FL",12031,In Hospital,1,Vaginal,1,63,8446,7.46,0.745915226
+Florida,12,"Duval County, FL",12031,In Hospital,1,Cesarean,2,44,4302,10.23,1.022780102
+Florida,12,"Duval County, FL",12031,In Hospital,1,Not Stated,9,0,19,0,0
+Florida,12,"Duval County, FL",12031,Not in Hospital,2,Vaginal,1,0,272,0,0
+Florida,12,"Duval County, FL",12031,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Duval County, FL",12031,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Duval County, FL",12031,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Duval County, FL",12031,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Duval County, FL",12031,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Escambia County, FL",12033,In Hospital,1,Vaginal,1,19,2693,7.06 (Unreliable),0.705532863
+Florida,12,"Escambia County, FL",12033,In Hospital,1,Cesarean,2,12,1190,10.08 (Unreliable),1.008403361
+Florida,12,"Escambia County, FL",12033,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Escambia County, FL",12033,Not in Hospital,2,Vaginal,1,0,18,0,0
+Florida,12,"Escambia County, FL",12033,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Escambia County, FL",12033,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Escambia County, FL",12033,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Escambia County, FL",12033,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Escambia County, FL",12033,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Hillsborough County, FL",12057,In Hospital,1,Vaginal,1,89,11329,7.86,0.785594492
+Florida,12,"Hillsborough County, FL",12057,In Hospital,1,Cesarean,2,52,5958,8.73,0.872776099
+Florida,12,"Hillsborough County, FL",12057,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Hillsborough County, FL",12057,Not in Hospital,2,Vaginal,1,0,279,0,0
+Florida,12,"Hillsborough County, FL",12057,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Hillsborough County, FL",12057,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Hillsborough County, FL",12057,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Hillsborough County, FL",12057,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Hillsborough County, FL",12057,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Lake County, FL",12069,In Hospital,1,Vaginal,1,14,1891,7.40 (Unreliable),0.740349022
+Florida,12,"Lake County, FL",12069,In Hospital,1,Cesarean,2,15,1205,12.45 (Unreliable),1.244813278
+Florida,12,"Lake County, FL",12069,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Lake County, FL",12069,Not in Hospital,2,Vaginal,1,0,85,0,0
+Florida,12,"Lake County, FL",12069,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Lake County, FL",12069,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Lake County, FL",12069,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Lake County, FL",12069,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Lake County, FL",12069,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Lee County, FL",12071,In Hospital,1,Vaginal,1,20,4137,4.83,0.483442108
+Florida,12,"Lee County, FL",12071,In Hospital,1,Cesarean,2,18,2519,7.15 (Unreliable),0.714569274
+Florida,12,"Lee County, FL",12071,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Lee County, FL",12071,Not in Hospital,2,Vaginal,1,0,121,0,0
+Florida,12,"Lee County, FL",12071,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Lee County, FL",12071,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Lee County, FL",12071,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Lee County, FL",12071,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Lee County, FL",12071,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Leon County, FL",12073,In Hospital,1,Vaginal,1,13,1973,6.59 (Unreliable),0.658895084
+Florida,12,"Leon County, FL",12073,In Hospital,1,Cesarean,2,0,988,0,0
+Florida,12,"Leon County, FL",12073,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Leon County, FL",12073,Not in Hospital,2,Vaginal,1,0,85,0,0
+Florida,12,"Leon County, FL",12073,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Leon County, FL",12073,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Leon County, FL",12073,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Leon County, FL",12073,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Leon County, FL",12073,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Manatee County, FL",12081,In Hospital,1,Vaginal,1,11,2299,4.78 (Unreliable),0.4784689
+Florida,12,"Manatee County, FL",12081,In Hospital,1,Cesarean,2,10,1087,9.20 (Unreliable),0.919963201
+Florida,12,"Manatee County, FL",12081,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Manatee County, FL",12081,Not in Hospital,2,Vaginal,1,0,81,0,0
+Florida,12,"Manatee County, FL",12081,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Manatee County, FL",12081,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Manatee County, FL",12081,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Manatee County, FL",12081,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Manatee County, FL",12081,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Marion County, FL",12083,In Hospital,1,Vaginal,1,10,2355,4.25 (Unreliable),0.42462845
+Florida,12,"Marion County, FL",12083,In Hospital,1,Cesarean,2,11,1139,9.66 (Unreliable),0.965759438
+Florida,12,"Marion County, FL",12083,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Marion County, FL",12083,Not in Hospital,2,Vaginal,1,0,89,0,0
+Florida,12,"Marion County, FL",12083,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Marion County, FL",12083,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Marion County, FL",12083,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Marion County, FL",12083,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Marion County, FL",12083,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Miami-Dade County, FL",12086,In Hospital,1,Vaginal,1,66,16528,3.99,0.399322362
+Florida,12,"Miami-Dade County, FL",12086,In Hospital,1,Cesarean,2,87,15541,5.6,0.559809536
+Florida,12,"Miami-Dade County, FL",12086,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Miami-Dade County, FL",12086,Not in Hospital,2,Vaginal,1,0,365,0,0
+Florida,12,"Miami-Dade County, FL",12086,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Miami-Dade County, FL",12086,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Miami-Dade County, FL",12086,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Miami-Dade County, FL",12086,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Miami-Dade County, FL",12086,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Orange County, FL",12095,In Hospital,1,Vaginal,1,66,10276,6.42,0.642273258
+Florida,12,"Orange County, FL",12095,In Hospital,1,Cesarean,2,38,6095,6.23,0.623461854
+Florida,12,"Orange County, FL",12095,In Hospital,1,Not Stated,9,0,13,0,0
+Florida,12,"Orange County, FL",12095,Not in Hospital,2,Vaginal,1,0,330,0,0
+Florida,12,"Orange County, FL",12095,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Orange County, FL",12095,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Orange County, FL",12095,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Orange County, FL",12095,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Orange County, FL",12095,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Osceola County, FL",12097,In Hospital,1,Vaginal,1,12,2581,4.65 (Unreliable),0.464936071
+Florida,12,"Osceola County, FL",12097,In Hospital,1,Cesarean,2,10,1543,6.48 (Unreliable),0.64808814
+Florida,12,"Osceola County, FL",12097,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Osceola County, FL",12097,Not in Hospital,2,Vaginal,1,0,59,0,0
+Florida,12,"Osceola County, FL",12097,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Osceola County, FL",12097,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Osceola County, FL",12097,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Osceola County, FL",12097,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Osceola County, FL",12097,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Palm Beach County, FL",12099,In Hospital,1,Vaginal,1,34,9114,3.73,0.373052447
+Florida,12,"Palm Beach County, FL",12099,In Hospital,1,Cesarean,2,39,5610,6.95,0.695187166
+Florida,12,"Palm Beach County, FL",12099,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Palm Beach County, FL",12099,Not in Hospital,2,Vaginal,1,0,147,0,0
+Florida,12,"Palm Beach County, FL",12099,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Palm Beach County, FL",12099,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Palm Beach County, FL",12099,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Palm Beach County, FL",12099,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Palm Beach County, FL",12099,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Pasco County, FL",12101,In Hospital,1,Vaginal,1,0,3168,0,0
+Florida,12,"Pasco County, FL",12101,In Hospital,1,Cesarean,2,17,1838,9.25 (Unreliable),0.92491839
+Florida,12,"Pasco County, FL",12101,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Pasco County, FL",12101,Not in Hospital,2,Vaginal,1,0,99,0,0
+Florida,12,"Pasco County, FL",12101,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Pasco County, FL",12101,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Pasco County, FL",12101,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Pasco County, FL",12101,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Pasco County, FL",12101,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Pinellas County, FL",12103,In Hospital,1,Vaginal,1,40,5718,7,0.699545296
+Florida,12,"Pinellas County, FL",12103,In Hospital,1,Cesarean,2,19,2788,6.81 (Unreliable),0.681492109
+Florida,12,"Pinellas County, FL",12103,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Pinellas County, FL",12103,Not in Hospital,2,Vaginal,1,0,237,0,0
+Florida,12,"Pinellas County, FL",12103,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Pinellas County, FL",12103,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Pinellas County, FL",12103,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Pinellas County, FL",12103,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Pinellas County, FL",12103,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Polk County, FL",12105,In Hospital,1,Vaginal,1,37,4976,7.44,0.743569132
+Florida,12,"Polk County, FL",12105,In Hospital,1,Cesarean,2,23,2390,9.62,0.962343096
+Florida,12,"Polk County, FL",12105,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Polk County, FL",12105,Not in Hospital,2,Vaginal,1,0,117,0,0
+Florida,12,"Polk County, FL",12105,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Polk County, FL",12105,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Polk County, FL",12105,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Polk County, FL",12105,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Polk County, FL",12105,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"St. Lucie County, FL",12111,In Hospital,1,Vaginal,1,10,1836,5.45 (Unreliable),0.544662309
+Florida,12,"St. Lucie County, FL",12111,In Hospital,1,Cesarean,2,0,1214,0,0
+Florida,12,"St. Lucie County, FL",12111,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"St. Lucie County, FL",12111,Not in Hospital,2,Vaginal,1,0,49,0,0
+Florida,12,"St. Lucie County, FL",12111,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"St. Lucie County, FL",12111,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"St. Lucie County, FL",12111,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"St. Lucie County, FL",12111,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"St. Lucie County, FL",12111,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Sarasota County, FL",12115,In Hospital,1,Vaginal,1,0,1809,0,0
+Florida,12,"Sarasota County, FL",12115,In Hospital,1,Cesarean,2,0,974,0,0
+Florida,12,"Sarasota County, FL",12115,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Sarasota County, FL",12115,Not in Hospital,2,Vaginal,1,0,120,0,0
+Florida,12,"Sarasota County, FL",12115,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Sarasota County, FL",12115,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Sarasota County, FL",12115,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Sarasota County, FL",12115,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Sarasota County, FL",12115,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Seminole County, FL",12117,In Hospital,1,Vaginal,1,13,2805,4.63 (Unreliable),0.463458111
+Florida,12,"Seminole County, FL",12117,In Hospital,1,Cesarean,2,0,1608,0,0
+Florida,12,"Seminole County, FL",12117,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Seminole County, FL",12117,Not in Hospital,2,Vaginal,1,0,140,0,0
+Florida,12,"Seminole County, FL",12117,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Seminole County, FL",12117,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Seminole County, FL",12117,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Seminole County, FL",12117,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Seminole County, FL",12117,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Volusia County, FL",12127,In Hospital,1,Vaginal,1,23,3007,7.65,0.764881942
+Florida,12,"Volusia County, FL",12127,In Hospital,1,Cesarean,2,18,1749,10.29 (Unreliable),1.02915952
+Florida,12,"Volusia County, FL",12127,In Hospital,1,Not Stated,9,0,0,0,0
+Florida,12,"Volusia County, FL",12127,Not in Hospital,2,Vaginal,1,0,180,0,0
+Florida,12,"Volusia County, FL",12127,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Volusia County, FL",12127,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Volusia County, FL",12127,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Volusia County, FL",12127,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Volusia County, FL",12127,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Florida,12,"Unidentified Counties, FL",12999,In Hospital,1,Vaginal,1,120,21847,5.49,0.5492745
+Florida,12,"Unidentified Counties, FL",12999,In Hospital,1,Cesarean,2,87,11362,7.66,0.765710262
+Florida,12,"Unidentified Counties, FL",12999,In Hospital,1,Not Stated,9,0,34,0,0
+Florida,12,"Unidentified Counties, FL",12999,Not in Hospital,2,Vaginal,1,0,600,0,0
+Florida,12,"Unidentified Counties, FL",12999,Not in Hospital,2,Cesarean,2,0,0,0,0
+Florida,12,"Unidentified Counties, FL",12999,Not in Hospital,2,Not Stated,9,0,0,0,0
+Florida,12,"Unidentified Counties, FL",12999,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Florida,12,"Unidentified Counties, FL",12999,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Florida,12,"Unidentified Counties, FL",12999,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Bristol County, MA",25005,In Hospital,1,Vaginal,1,0,3747,0,0
+Massachusetts,25,"Bristol County, MA",25005,In Hospital,1,Cesarean,2,0,1908,0,0
+Massachusetts,25,"Bristol County, MA",25005,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Bristol County, MA",25005,Not in Hospital,2,Vaginal,1,0,17,0,0
+Massachusetts,25,"Bristol County, MA",25005,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Bristol County, MA",25005,Not in Hospital,2,Not Stated,9,0,0,0,0
+Massachusetts,25,"Bristol County, MA",25005,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Bristol County, MA",25005,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Bristol County, MA",25005,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Essex County, MA",25009,In Hospital,1,Vaginal,1,29,5633,5.15,0.514823362
+Massachusetts,25,"Essex County, MA",25009,In Hospital,1,Cesarean,2,10,2787,3.59 (Unreliable),0.358808755
+Massachusetts,25,"Essex County, MA",25009,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Essex County, MA",25009,Not in Hospital,2,Vaginal,1,0,116,0,0
+Massachusetts,25,"Essex County, MA",25009,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Essex County, MA",25009,Not in Hospital,2,Not Stated,9,0,0,0,0
+Massachusetts,25,"Essex County, MA",25009,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Essex County, MA",25009,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Essex County, MA",25009,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Hampden County, MA",25013,In Hospital,1,Vaginal,1,22,3400,6.47,0.647058824
+Massachusetts,25,"Hampden County, MA",25013,In Hospital,1,Cesarean,2,0,1692,0,0
+Massachusetts,25,"Hampden County, MA",25013,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Hampden County, MA",25013,Not in Hospital,2,Vaginal,1,0,32,0,0
+Massachusetts,25,"Hampden County, MA",25013,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Hampden County, MA",25013,Not in Hospital,2,Not Stated,9,0,10,0,0
+Massachusetts,25,"Hampden County, MA",25013,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Hampden County, MA",25013,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Hampden County, MA",25013,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Middlesex County, MA",25017,In Hospital,1,Vaginal,1,36,11738,3.07,0.3066962
+Massachusetts,25,"Middlesex County, MA",25017,In Hospital,1,Cesarean,2,19,5388,3.53 (Unreliable),0.352635486
+Massachusetts,25,"Middlesex County, MA",25017,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Middlesex County, MA",25017,Not in Hospital,2,Vaginal,1,0,161,0,0
+Massachusetts,25,"Middlesex County, MA",25017,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Middlesex County, MA",25017,Not in Hospital,2,Not Stated,9,0,0,0,0
+Massachusetts,25,"Middlesex County, MA",25017,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Middlesex County, MA",25017,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Middlesex County, MA",25017,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Norfolk County, MA",25021,In Hospital,1,Vaginal,1,16,4834,3.31 (Unreliable),0.330988829
+Massachusetts,25,"Norfolk County, MA",25021,In Hospital,1,Cesarean,2,11,2330,4.72 (Unreliable),0.472103004
+Massachusetts,25,"Norfolk County, MA",25021,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Norfolk County, MA",25021,Not in Hospital,2,Vaginal,1,0,30,0,0
+Massachusetts,25,"Norfolk County, MA",25021,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Norfolk County, MA",25021,Not in Hospital,2,Not Stated,9,0,0,0,0
+Massachusetts,25,"Norfolk County, MA",25021,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Norfolk County, MA",25021,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Norfolk County, MA",25021,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Plymouth County, MA",25023,In Hospital,1,Vaginal,1,0,3389,0,0
+Massachusetts,25,"Plymouth County, MA",25023,In Hospital,1,Cesarean,2,0,1830,0,0
+Massachusetts,25,"Plymouth County, MA",25023,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Plymouth County, MA",25023,Not in Hospital,2,Vaginal,1,0,30,0,0
+Massachusetts,25,"Plymouth County, MA",25023,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Plymouth County, MA",25023,Not in Hospital,2,Not Stated,9,0,0,0,0
+Massachusetts,25,"Plymouth County, MA",25023,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Plymouth County, MA",25023,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Plymouth County, MA",25023,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Suffolk County, MA",25025,In Hospital,1,Vaginal,1,36,6690,5.38,0.538116592
+Massachusetts,25,"Suffolk County, MA",25025,In Hospital,1,Cesarean,2,0,2581,0,0
+Massachusetts,25,"Suffolk County, MA",25025,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Suffolk County, MA",25025,Not in Hospital,2,Vaginal,1,0,73,0,0
+Massachusetts,25,"Suffolk County, MA",25025,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Suffolk County, MA",25025,Not in Hospital,2,Not Stated,9,0,0,0,0
+Massachusetts,25,"Suffolk County, MA",25025,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Suffolk County, MA",25025,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Suffolk County, MA",25025,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Worcester County, MA",25027,In Hospital,1,Vaginal,1,39,5925,6.58,0.658227848
+Massachusetts,25,"Worcester County, MA",25027,In Hospital,1,Cesarean,2,12,2584,4.64 (Unreliable),0.464396285
+Massachusetts,25,"Worcester County, MA",25027,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Worcester County, MA",25027,Not in Hospital,2,Vaginal,1,0,61,0,0
+Massachusetts,25,"Worcester County, MA",25027,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Worcester County, MA",25027,Not in Hospital,2,Not Stated,9,0,17,0,0
+Massachusetts,25,"Worcester County, MA",25027,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Worcester County, MA",25027,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Worcester County, MA",25027,Unknown or Not Stated,3,Not Stated,9,0,0,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,In Hospital,1,Vaginal,1,21,3006,6.99,0.698602794
+Massachusetts,25,"Unidentified Counties, MA",25999,In Hospital,1,Cesarean,2,0,1349,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,In Hospital,1,Not Stated,9,0,0,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,Not in Hospital,2,Vaginal,1,0,53,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,Not in Hospital,2,Cesarean,2,0,0,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,Not in Hospital,2,Not Stated,9,0,19,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,Unknown or Not Stated,3,Vaginal,1,0,0,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,Unknown or Not Stated,3,Cesarean,2,0,0,0,0
+Massachusetts,25,"Unidentified Counties, MA",25999,Unknown or Not Stated,3,Not Stated,9,0,0,0,0

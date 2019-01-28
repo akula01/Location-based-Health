@@ -1,0 +1,24 @@
+Notes,State,State Code,C,,,County_Code,Deaths,Births,Death Rate,Values
+,Florida,12,Brevard County, FL,,12009,32,5246,6.1,0.609988563
+,Florida,12,Broward County, FL,,12011,118,22311,5.29,0.528887096
+,Florida,12,Collier County, FL,,12021,22,3256,6.76,0.675675676
+,Florida,12,Duval County, FL,,12031,108,13039,8.28,0.828284378
+,Florida,12,Escambia County, FL,,12033,32,3902,8.2,0.82009226
+,Florida,12,Hillsborough County, FL,,12057,143,17568,8.14,0.813979964
+,Florida,12,Lake County, FL,,12069,30,3184,9.42,0.942211055
+,Florida,12,Lee County, FL,,12071,42,6777,6.2,0.619743249
+,Florida,12,Leon County, FL,,12073,21,3047,6.89,0.689202494
+,Florida,12,Manatee County, FL,,12081,21,3469,6.05,0.605361776
+,Florida,12,Marion County, FL,,12083,22,3584,6.14,0.613839286
+,Florida,12,Miami-Dade County, FL,,12086,156,32438,4.81,0.480917443
+,Florida,12,Orange County, FL,,12095,104,16715,6.22,0.622195633
+,Florida,12,Osceola County, FL,,12097,22,4183,5.26,0.525938322
+,Florida,12,Palm Beach County, FL,,12099,74,14872,4.98,0.497579344
+,Florida,12,Pasco County, FL,,12101,25,5105,4.9,0.489715965
+,Florida,12,Pinellas County, FL,,12103,59,8745,6.75,0.674671241
+,Florida,12,Polk County, FL,,12105,62,7483,8.29,0.828544701
+,Florida,12,St. Lucie County, FL,,12111,18,3099,5.81 (Unreliable),0.580832527
+,Florida,12,Sarasota County, FL,,12115,16,2907,5.50 (Unreliable),0.550395597
+,Florida,12,Seminole County, FL,,12117,21,4555,4.61,0.461031833
+,Florida,12,Volusia County, FL,,12127,41,4939,8.3,0.830127556
+,Florida,12,Unidentified Counties, FL,,12999,210,33845,6.2,0.620475698

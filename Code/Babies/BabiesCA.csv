@@ -1,0 +1,27 @@
+Notes,State,State Code,County,County Code,Deaths,Births,Death Rate,Values
+,California,6,"Alameda County, CA",6001,76,19434,3.91,0.391067202
+,California,6,"Contra Costa County, CA",6013,43,12596,3.41,0.341378215
+,California,6,"Fresno County, CA",6019,118,15359,7.68,0.768279185
+,California,6,"Kern County, CA",6029,94,13768,6.83,0.682742592
+,California,6,"Los Angeles County, CA",6037,510,124641,4.09,0.409175151
+,California,6,"Merced County, CA",6047,22,4104,5.36,0.536062378
+,California,6,"Monterey County, CA",6053,40,6420,6.23,0.62305296
+,California,6,"Orange County, CA",6059,115,37609,3.06,0.305777872
+,California,6,"Placer County, CA",6061,20,3747,5.34,0.533760342
+,California,6,"Riverside County, CA",6065,119,30491,3.9,0.390279099
+,California,6,"Sacramento County, CA",6067,91,19423,4.69,0.468516707
+,California,6,"San Bernardino County, CA",6071,168,30530,5.5,0.550278415
+,California,6,"San Diego County, CA",6073,162,43942,3.69,0.368667789
+,California,6,"San Francisco County, CA",6075,33,8972,3.68,0.367810967
+,California,6,"San Joaquin County, CA",6077,61,9983,6.11,0.611038766
+,California,6,"San Luis Obispo County, CA",6079,11,2668,4.12 (Unreliable),0.412293853
+,California,6,"San Mateo County, CA",6081,30,9037,3.32,0.331968574
+,California,6,"Santa Barbara County, CA",6083,28,5673,4.94,0.493566014
+,California,6,"Santa Clara County, CA",6085,80,23393,3.42,0.341982644
+,California,6,"Santa Cruz County, CA",6087,12,2840,4.23 (Unreliable),0.422535211
+,California,6,"Solano County, CA",6095,22,5131,4.29,0.428766322
+,California,6,"Sonoma County, CA",6097,19,5015,3.79 (Unreliable),0.37886341
+,California,6,"Stanislaus County, CA",6099,41,7698,5.33,0.532605872
+,California,6,"Tulare County, CA",6107,48,7411,6.48,0.647685872
+,California,6,"Ventura County, CA",6111,47,10060,4.67,0.467196819
+,California,6,"Unidentified Counties, CA",6999,162,29515,5.49,0.548873454
