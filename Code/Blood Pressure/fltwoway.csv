@@ -1,0 +1,1362 @@
+Year,StateAbbr,StateDesc,Category,Measure,Data_Value,,Year,StateAbbr,StateDesc,CityName,Category,Measure,,MH
+2015,FL,Florida,Health Outcomes,50,24.2,,2015,FL,Florida,Boca Raton,Health Outcomes,51,1.2,A
+2015,FL,Florida,Health Outcomes,50,28.9,,2015,FL,Florida,Boca Raton,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,18.5,,2015,FL,Florida,Boca Raton,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Boca Raton,Health Outcomes,51,8.5,D
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9,E
+2015,FL,Florida,Health Outcomes,50,20.7,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.3,F
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,27.9,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,11.3,,2015,FL,Florida,Boca Raton,Health Outcomes,51,23.5,I
+2015,FL,Florida,Health Outcomes,50,30.7,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.5,J
+2015,FL,Florida,Health Outcomes,50,24.2,,2015,FL,Florida,Boca Raton,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Boca Raton,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,Boca Raton,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,28.3,,2015,FL,Florida,Boca Raton,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,Boca Raton,Health Outcomes,51,7.5,O
+2015,FL,Florida,Health Outcomes,50,42.1,,2015,FL,Florida,Boca Raton,Health Outcomes,51,6.6,P
+2015,FL,Florida,Health Outcomes,50,40.2,,2015,FL,Florida,Boca Raton,Health Outcomes,51,7.9,Q
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Boca Raton,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Boca Raton,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Boca Raton,Health Outcomes,51,8.9,T
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Boca Raton,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,26.6,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,28,,2015,FL,Florida,Boca Raton,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,25.3,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.2,Y
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,Boca Raton,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Boca Raton,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,29.8,,2015,FL,Florida,Boca Raton,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Boca Raton,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,34.3,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,48.4,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,6.2,AF
+2015,FL,Florida,Health Outcomes,50,38.6,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,42.2,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,38.9,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,22.5,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,55.7,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,20.2,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,22.8,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,29.1,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,26.3,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,36.7,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,8.7,AS
+2015,FL,Florida,Health Outcomes,50,53.1,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,9.1,AT
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,27.7,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,40.4,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,17.5,AX
+2015,FL,Florida,Health Outcomes,50,37.4,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,46.8,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,29.1,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,43.9,,2015,FL,Florida,Boynton Beach,Health Outcomes,51,6.6,P
+2015,FL,Florida,Health Outcomes,50,26.9,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,25.1,,2015,FL,Florida,Cape Coral,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,26,,2015,FL,Florida,Cape Coral,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Cape Coral,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,25.5,,2015,FL,Florida,Cape Coral,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,26.4,,2015,FL,Florida,Cape Coral,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,25.1,,2015,FL,Florida,Cape Coral,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Cape Coral,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Cape Coral,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Cape Coral,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,24.2,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,31,,2015,FL,Florida,Cape Coral,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Cape Coral,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,27.9,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Cape Coral,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,34.5,,2015,FL,Florida,Cape Coral,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Cape Coral,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Cape Coral,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Cape Coral,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,37.1,,2015,FL,Florida,Cape Coral,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,37.5,,2015,FL,Florida,Cape Coral,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,Cape Coral,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,38.8,,2015,FL,Florida,Cape Coral,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,41.4,,2015,FL,Florida,Cape Coral,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,39.2,,2015,FL,Florida,Cape Coral,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,38.9,,2015,FL,Florida,Cape Coral,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,37.1,,2015,FL,Florida,Cape Coral,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Clearwater,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Clearwater,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Clearwater,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Clearwater,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Clearwater,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,19.2,CP
+2015,FL,Florida,Health Outcomes,50,42.1,,2015,FL,Florida,Clearwater,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,Clearwater,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,36.9,,2015,FL,Florida,Clearwater,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,39.1,,2015,FL,Florida,Clearwater,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,38.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Clearwater,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Clearwater,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,43,,2015,FL,Florida,Clearwater,Health Outcomes,51,19.8,CX
+2015,FL,Florida,Health Outcomes,50,37.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,18.4,CY
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Clearwater,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Clearwater,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,Clearwater,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Clearwater,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Clearwater,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,28.9,,2015,FL,Florida,Clearwater,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,27.7,,2015,FL,Florida,Clearwater,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Clearwater,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Clearwater,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Clearwater,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,31.5,,2015,FL,Florida,Clearwater,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,35.5,,2015,FL,Florida,Clearwater,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,25.8,,2015,FL,Florida,Clearwater,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,38.5,,2015,FL,Florida,Clearwater,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Clearwater,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,43,,2015,FL,Florida,Clearwater,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,26.2,,2015,FL,Florida,Clearwater,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,Clearwater,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,44.3,,2015,FL,Florida,Clearwater,Health Outcomes,51,8.6,DT
+2015,FL,Florida,Health Outcomes,50,28,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,27.3,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,25.4,,2015,FL,Florida,Coral Springs,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Coral Springs,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,26.2,,2015,FL,Florida,Coral Springs,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,25,,2015,FL,Florida,Coral Springs,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,24.7,,2015,FL,Florida,Coral Springs,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,22.8,,2015,FL,Florida,Coral Springs,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,18.8,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,Coral Springs,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Coral Springs,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,24.5,,2015,FL,Florida,Coral Springs,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Coral Springs,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,26.7,,2015,FL,Florida,Coral Springs,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,Coral Springs,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Coral Springs,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,28.2,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,25.7,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,28.2,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,26.7,,2015,FL,Florida,Coral Springs,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,26.6,,2015,FL,Florida,Coral Springs,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,25.3,,2015,FL,Florida,Coral Springs,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,26.4,,2015,FL,Florida,Coral Springs,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,26.1,,2015,FL,Florida,Coral Springs,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,Coral Springs,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,Coral Springs,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,27.8,,2015,FL,Florida,Coral Springs,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,27.1,,2015,FL,Florida,Davie,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,27,,2015,FL,Florida,Davie,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,28.9,,2015,FL,Florida,Davie,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,31.2,,2015,FL,Florida,Davie,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,19.1,,2015,FL,Florida,Davie,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,27.1,,2015,FL,Florida,Davie,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Davie,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,Davie,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,26.3,,2015,FL,Florida,Davie,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,Davie,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,25.3,,2015,FL,Florida,Davie,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,24.6,,2015,FL,Florida,Davie,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,27,,2015,FL,Florida,Davie,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,24.9,,2015,FL,Florida,Davie,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,27,,2015,FL,Florida,Davie,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Davie,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Davie,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,28.8,,2015,FL,Florida,Davie,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,25.3,,2015,FL,Florida,Davie,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,24.9,,2015,FL,Florida,Davie,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,26.9,,2015,FL,Florida,Davie,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,25.8,,2015,FL,Florida,Davie,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,20.1,,2015,FL,Florida,Davie,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,31.7,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,36.6,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,35.3,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,43.7,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,18.6,FZ
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,40.6,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,15.6,GB
+2015,FL,Florida,Health Outcomes,50,39.6,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,17.9,GC
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,28.2,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,47.3,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,56.8,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,8.9,T
+2015,FL,Florida,Health Outcomes,50,28.3,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,25.4,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,33.9,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,37.5,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,17.7,GK
+2015,FL,Florida,Health Outcomes,50,41,,2015,FL,Florida,Deerfield Beach,Health Outcomes,51,17.5,AX
+2015,FL,Florida,Health Outcomes,50,30.7,,2015,FL,Florida,Deltona,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Deltona,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Deltona,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Deltona,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Deltona,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,35.8,,2015,FL,Florida,Deltona,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Deltona,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Deltona,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Deltona,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Deltona,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Deltona,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Deltona,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,37.9,,2015,FL,Florida,Deltona,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,Deltona,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Deltona,Health Outcomes,51,16.8,HA
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Deltona,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Deltona,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Deltona,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Deltona,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,34,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,30.2,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,9.2,Y
+2015,FL,Florida,Health Outcomes,50,44.6,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,8,HP
+2015,FL,Florida,Health Outcomes,50,43.1,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,7.9,Q
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,39.7,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,18.3,HV
+2015,FL,Florida,Health Outcomes,50,31.5,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,47.4,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,18.9,HX
+2015,FL,Florida,Health Outcomes,50,46,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,18.9,HX
+2015,FL,Florida,Health Outcomes,50,46.5,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,50.3,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,17.7,GK
+2015,FL,Florida,Health Outcomes,50,47.6,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,21.2,IB
+2015,FL,Florida,Health Outcomes,50,46.5,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,23.6,IC
+2015,FL,Florida,Health Outcomes,50,39.4,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,19.3,ID
+2015,FL,Florida,Health Outcomes,50,42.6,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,22.1,IE
+2015,FL,Florida,Health Outcomes,50,24,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,23.8,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,8.6,DT
+2015,FL,Florida,Health Outcomes,50,35.2,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,40.1,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,8.3,IK
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,38.3,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,26.7,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,8.9,T
+2015,FL,Florida,Health Outcomes,50,21.4,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,39.7,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,18,IR
+2015,FL,Florida,Health Outcomes,50,40.9,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,30.7,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,31.2,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,30.4,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,27.9,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,18.5,JB
+2015,FL,Florida,Health Outcomes,50,45,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,44.1,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Fort Lauderdale,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Gainesville,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,21.6,,2015,FL,Florida,Gainesville,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,14,,2015,FL,Florida,Gainesville,Health Outcomes,51,19.6,JH
+2015,FL,Florida,Health Outcomes,50,22.3,,2015,FL,Florida,Gainesville,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,30.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,35.2,,2015,FL,Florida,Gainesville,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,25.5,,2015,FL,Florida,Gainesville,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,43.2,,2015,FL,Florida,Gainesville,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,46.1,,2015,FL,Florida,Gainesville,Health Outcomes,51,16.8,HA
+2015,FL,Florida,Health Outcomes,50,14.5,,2015,FL,Florida,Gainesville,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,15.9,,2015,FL,Florida,Gainesville,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,24.8,,2015,FL,Florida,Gainesville,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,9.1,,2015,FL,Florida,Gainesville,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,6.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,18.4,,2015,FL,Florida,Gainesville,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,9.1,AT
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Gainesville,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,24.8,,2015,FL,Florida,Gainesville,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,22.5,,2015,FL,Florida,Gainesville,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,25.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,12.1,,2015,FL,Florida,Gainesville,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,13.2,,2015,FL,Florida,Gainesville,Health Outcomes,51,17.4,KA
+2015,FL,Florida,Health Outcomes,50,12.8,,2015,FL,Florida,Gainesville,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,16.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,17.4,KA
+2015,FL,Florida,Health Outcomes,50,10.3,,2015,FL,Florida,Gainesville,Health Outcomes,51,16.8,HA
+2015,FL,Florida,Health Outcomes,50,17.3,,2015,FL,Florida,Gainesville,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,14.1,,2015,FL,Florida,Gainesville,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,19,,2015,FL,Florida,Gainesville,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,16.3,,2015,FL,Florida,Gainesville,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,28.8,,2015,FL,Florida,Gainesville,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,9.1,AT
+2015,FL,Florida,Health Outcomes,50,36.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Gainesville,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,19.6,,2015,FL,Florida,Gainesville,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,26.2,,2015,FL,Florida,Gainesville,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Gainesville,Health Outcomes,51,22.3,KO
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Gainesville,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,21.7,,2015,FL,Florida,Gainesville,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,53.1,,2015,FL,Florida,Gainesville,Health Outcomes,51,6,KR
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Hialeah,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,33.9,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,34,,2015,FL,Florida,Hialeah,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,35.3,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,34.3,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Hialeah,Health Outcomes,51,16.8,HA
+2015,FL,Florida,Health Outcomes,50,38.9,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,Hialeah,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,34.9,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,38.8,,2015,FL,Florida,Hialeah,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Hialeah,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Hialeah,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,35,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,39,,2015,FL,Florida,Hialeah,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,40.4,,2015,FL,Florida,Hialeah,Health Outcomes,51,19.6,JH
+2015,FL,Florida,Health Outcomes,50,36.2,,2015,FL,Florida,Hialeah,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,39.3,,2015,FL,Florida,Hialeah,Health Outcomes,51,17.5,AX
+2015,FL,Florida,Health Outcomes,50,34.3,,2015,FL,Florida,Hialeah,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Hialeah,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Hialeah,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Hialeah,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Hialeah,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,35,,2015,FL,Florida,Hialeah,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,39.1,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Hialeah,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,Hialeah,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Hialeah,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Hialeah,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,Hialeah,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Hialeah,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Hialeah,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Hialeah,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Hialeah,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,29.8,,2015,FL,Florida,Hollywood,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Hollywood,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,33.5,,2015,FL,Florida,Hollywood,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Hollywood,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,31.5,,2015,FL,Florida,Hollywood,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,41.3,,2015,FL,Florida,Hollywood,Health Outcomes,51,19.4,MP
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,Hollywood,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,34.9,,2015,FL,Florida,Hollywood,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Hollywood,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Hollywood,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,34,,2015,FL,Florida,Hollywood,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Hollywood,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Hollywood,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Hollywood,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Hollywood,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Hollywood,Health Outcomes,51,9.1,AT
+2015,FL,Florida,Health Outcomes,50,30.4,,2015,FL,Florida,Hollywood,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,30.4,,2015,FL,Florida,Hollywood,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,34.8,,2015,FL,Florida,Hollywood,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Hollywood,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Hollywood,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,37,,2015,FL,Florida,Hollywood,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Hollywood,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Hollywood,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Hollywood,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Hollywood,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,29.5,,2015,FL,Florida,Hollywood,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,29.5,,2015,FL,Florida,Hollywood,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,33.4,,2015,FL,Florida,Hollywood,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,40.8,,2015,FL,Florida,Hollywood,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Hollywood,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,29,,2015,FL,Florida,Hollywood,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Hollywood,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,37.7,,2015,FL,Florida,Hollywood,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Hollywood,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Hollywood,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Hollywood,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,41.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.6,GB
+2015,FL,Florida,Health Outcomes,50,50.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,20,NY
+2015,FL,Florida,Health Outcomes,50,47.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,21.2,IB
+2015,FL,Florida,Health Outcomes,50,37.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,28.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,43.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,22.4,OD
+2015,FL,Florida,Health Outcomes,50,38.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,39.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,48.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,19.2,CP
+2015,FL,Florida,Health Outcomes,50,45.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.4,KA
+2015,FL,Florida,Health Outcomes,50,47.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,19,OI
+2015,FL,Florida,Health Outcomes,50,51.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,21.9,OJ
+2015,FL,Florida,Health Outcomes,50,26.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,25.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,32.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,41.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,49.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,23.1,OR
+2015,FL,Florida,Health Outcomes,50,45.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,18,IR
+2015,FL,Florida,Health Outcomes,50,42.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,18.5,JB
+2015,FL,Florida,Health Outcomes,50,53.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.9,GC
+2015,FL,Florida,Health Outcomes,50,54.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,19.2,CP
+2015,FL,Florida,Health Outcomes,50,52.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,19.4,MP
+2015,FL,Florida,Health Outcomes,50,50.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,18,IR
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,42.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,38.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,38.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,18.4,CY
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,34,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,51.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,53.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,44.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,44.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,46.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,48.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,50.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,18,IR
+2015,FL,Florida,Health Outcomes,50,56.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,49.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,19.4,MP
+2015,FL,Florida,Health Outcomes,50,55.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.9,GC
+2015,FL,Florida,Health Outcomes,50,38.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,18.5,JB
+2015,FL,Florida,Health Outcomes,50,41,,2015,FL,Florida,Jacksonville,Health Outcomes,51,20,NY
+2015,FL,Florida,Health Outcomes,50,31.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,40.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,19.2,CP
+2015,FL,Florida,Health Outcomes,50,38.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,20.2,QB
+2015,FL,Florida,Health Outcomes,50,34.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,40.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.5,AX
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,38.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.8,HA
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,39,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,33.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,16,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,18.5,JB
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,37.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,31,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,31.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.8,HA
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,31.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,16.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,21.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,29.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,26.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,26.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,24.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,26.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,28,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,31.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,23.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,15.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,9.3,F
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,22.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,22.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,24.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,33.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,35.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,34.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,36.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,34.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,37.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,38.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,21.5,ST
+2015,FL,Florida,Health Outcomes,50,35.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,31.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,24.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,23.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,22.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,37.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,36.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,36.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,36.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,35,,2015,FL,Florida,Jacksonville,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,29.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,28.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,36.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,28.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,28.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,25.8,,2015,FL,Florida,Jacksonville,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Jacksonville,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,31,,2015,FL,Florida,Jacksonville,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Jacksonville,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,42,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,32.6,,2015,FL,Florida,Jacksonville,Health Outcomes,51,15.6,GB
+2015,FL,Florida,Health Outcomes,50,47.3,,2015,FL,Florida,Jacksonville,Health Outcomes,51,20.2,QB
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Lakeland,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Lakeland,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Lakeland,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Lakeland,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,21.8,,2015,FL,Florida,Lakeland,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Lakeland,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,31.3,,2015,FL,Florida,Lakeland,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Lakeland,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Lakeland,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,27.7,,2015,FL,Florida,Lakeland,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,37.1,,2015,FL,Florida,Lakeland,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Lakeland,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,36.9,,2015,FL,Florida,Lakeland,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,45.3,,2015,FL,Florida,Lakeland,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,52.7,,2015,FL,Florida,Lakeland,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,45.4,,2015,FL,Florida,Lakeland,Health Outcomes,51,22.1,IE
+2015,FL,Florida,Health Outcomes,50,48.9,,2015,FL,Florida,Lakeland,Health Outcomes,51,19.4,MP
+2015,FL,Florida,Health Outcomes,50,46.5,,2015,FL,Florida,Lakeland,Health Outcomes,51,20,NY
+2015,FL,Florida,Health Outcomes,50,42.7,,2015,FL,Florida,Lakeland,Health Outcomes,51,20,NY
+2015,FL,Florida,Health Outcomes,50,43.6,,2015,FL,Florida,Lakeland,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,39.2,,2015,FL,Florida,Lakeland,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,Lakeland,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,15.5,,2015,FL,Florida,Lakeland,Health Outcomes,51,17.9,GC
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Lakeland,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Lakeland,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,19.7,,2015,FL,Florida,Lakeland,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Lakeland,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,38.9,,2015,FL,Florida,Lakeland,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,23.8,,2015,FL,Florida,Lakeland,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,22.2,,2015,FL,Florida,Lakeland,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,20.9,,2015,FL,Florida,Lakeland,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,50.4,,2015,FL,Florida,Lakeland,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,44.1,,2015,FL,Florida,Lakeland,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,37.4,,2015,FL,Florida,Lakeland,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,26.1,,2015,FL,Florida,Lakeland,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,39,,2015,FL,Florida,Lakeland,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Lakeland,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,48.1,,2015,FL,Florida,Lakeland,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Lakeland,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,Lakeland,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,44.4,,2015,FL,Florida,Lakeland,Health Outcomes,51,21,VT
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Largo,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,36.1,,2015,FL,Florida,Largo,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,19.1,,2015,FL,Florida,Largo,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Largo,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Largo,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Largo,Health Outcomes,51,19.7,VZ
+2015,FL,Florida,Health Outcomes,50,22.8,,2015,FL,Florida,Largo,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,40.1,,2015,FL,Florida,Largo,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Largo,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,37.1,,2015,FL,Florida,Largo,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Largo,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Largo,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,33.5,,2015,FL,Florida,Largo,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,42.6,,2015,FL,Florida,Largo,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Largo,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,38.5,,2015,FL,Florida,Largo,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,42.6,,2015,FL,Florida,Largo,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,Largo,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,40.4,,2015,FL,Florida,Largo,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Largo,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,40.1,,2015,FL,Florida,Largo,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,Largo,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Largo,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,Largo,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,Largo,Health Outcomes,51,18.6,FZ
+2015,FL,Florida,Health Outcomes,50,43.2,,2015,FL,Florida,Largo,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,39.4,,2015,FL,Florida,Largo,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Largo,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Largo,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,51,,2015,FL,Florida,Largo,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Largo,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,47.3,,2015,FL,Florida,Largo,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,41.2,,2015,FL,Florida,Largo,Health Outcomes,51,17.4,KA
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Largo,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,Largo,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Largo,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,31.1,,2015,FL,Florida,Largo,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,39.3,,2015,FL,Florida,Lauderhill,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,39.9,,2015,FL,Florida,Lauderhill,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,44.2,,2015,FL,Florida,Lauderhill,Health Outcomes,51,18.2,XH
+2015,FL,Florida,Health Outcomes,50,46.4,,2015,FL,Florida,Lauderhill,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,Lauderhill,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,40.2,,2015,FL,Florida,Lauderhill,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,39.7,,2015,FL,Florida,Lauderhill,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Lauderhill,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,37.9,,2015,FL,Florida,Lauderhill,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,39.6,,2015,FL,Florida,Lauderhill,Health Outcomes,51,19.6,JH
+2015,FL,Florida,Health Outcomes,50,38.8,,2015,FL,Florida,Lauderhill,Health Outcomes,51,21.4,XP
+2015,FL,Florida,Health Outcomes,50,40.5,,2015,FL,Florida,Lauderhill,Health Outcomes,51,19.9,XQ
+2015,FL,Florida,Health Outcomes,50,31.5,,2015,FL,Florida,Lauderhill,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,44.8,,2015,FL,Florida,Lauderhill,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,47.2,,2015,FL,Florida,Lauderhill,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,39.3,,2015,FL,Florida,Lauderhill,Health Outcomes,51,17.7,GK
+2015,FL,Florida,Health Outcomes,50,43.6,,2015,FL,Florida,Lauderhill,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Melbourne,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,30.2,,2015,FL,Florida,Melbourne,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,Melbourne,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Melbourne,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Melbourne,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,19.3,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Melbourne,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,34.5,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,31.2,,2015,FL,Florida,Melbourne,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,Melbourne,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,31.7,,2015,FL,Florida,Melbourne,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,43.2,,2015,FL,Florida,Melbourne,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,36.9,,2015,FL,Florida,Melbourne,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Melbourne,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,45,,2015,FL,Florida,Melbourne,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,23.3,,2015,FL,Florida,Melbourne,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,49.3,,2015,FL,Florida,Melbourne,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,34.6,,2015,FL,Florida,Melbourne,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,30.7,,2015,FL,Florida,Melbourne,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,31.1,,2015,FL,Florida,Miami,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Miami,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Miami,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,38.7,,2015,FL,Florida,Miami,Health Outcomes,51,21.8,YX
+2015,FL,Florida,Health Outcomes,50,34.8,,2015,FL,Florida,Miami,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,28.2,,2015,FL,Florida,Miami,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,44.9,,2015,FL,Florida,Miami,Health Outcomes,51,19.6,JH
+2015,FL,Florida,Health Outcomes,50,43.6,,2015,FL,Florida,Miami,Health Outcomes,51,21.4,XP
+2015,FL,Florida,Health Outcomes,50,41.2,,2015,FL,Florida,Miami,Health Outcomes,51,24.5,ZC
+2015,FL,Florida,Health Outcomes,50,51.9,,2015,FL,Florida,Miami,Health Outcomes,51,23.2,ZD
+2015,FL,Florida,Health Outcomes,50,24.6,,2015,FL,Florida,Miami,Health Outcomes,51,19,OI
+2015,FL,Florida,Health Outcomes,50,45.8,,2015,FL,Florida,Miami,Health Outcomes,51,20.2,QB
+2015,FL,Florida,Health Outcomes,50,42.2,,2015,FL,Florida,Miami,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,41.2,,2015,FL,Florida,Miami,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,40.3,,2015,FL,Florida,Miami,Health Outcomes,51,17.4,KA
+2015,FL,Florida,Health Outcomes,50,45,,2015,FL,Florida,Miami,Health Outcomes,51,18.5,JB
+2015,FL,Florida,Health Outcomes,50,49.4,,2015,FL,Florida,Miami,Health Outcomes,51,22.5,ZK
+2015,FL,Florida,Health Outcomes,50,45.8,,2015,FL,Florida,Miami,Health Outcomes,51,21.2,IB
+2015,FL,Florida,Health Outcomes,50,43.2,,2015,FL,Florida,Miami,Health Outcomes,51,20.5,ZM
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Miami,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Miami,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,41.5,,2015,FL,Florida,Miami,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,43.4,,2015,FL,Florida,Miami,Health Outcomes,51,18.3,HV
+2015,FL,Florida,Health Outcomes,50,31.1,,2015,FL,Florida,Miami,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Miami,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,40.9,,2015,FL,Florida,Miami,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,35.5,,2015,FL,Florida,Miami,Health Outcomes,51,19.9,XQ
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Miami,Health Outcomes,51,18.6,FZ
+2015,FL,Florida,Health Outcomes,50,26.8,,2015,FL,Florida,Miami,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,26.6,,2015,FL,Florida,Miami,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,18,,2015,FL,Florida,Miami,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,23.4,,2015,FL,Florida,Miami,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,18.6,,2015,FL,Florida,Miami,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,38.7,,2015,FL,Florida,Miami,Health Outcomes,51,19.7,VZ
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Miami,Health Outcomes,51,18.9,HX
+2015,FL,Florida,Health Outcomes,50,38.8,,2015,FL,Florida,Miami,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,33.4,,2015,FL,Florida,Miami,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Miami,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,42.2,,2015,FL,Florida,Miami,Health Outcomes,51,22.4,OD
+2015,FL,Florida,Health Outcomes,50,43.6,,2015,FL,Florida,Miami,Health Outcomes,51,21.3,AAH
+2015,FL,Florida,Health Outcomes,50,42,,2015,FL,Florida,Miami,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Miami,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,18.5,,2015,FL,Florida,Miami,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,14.1,,2015,FL,Florida,Miami,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,20.2,,2015,FL,Florida,Miami,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,10.7,,2015,FL,Florida,Miami,Health Outcomes,51,8.3,IK
+2015,FL,Florida,Health Outcomes,50,26.9,,2015,FL,Florida,Miami,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Miami,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,31.1,,2015,FL,Florida,Miami,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Miami,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Miami,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Miami,Health Outcomes,51,15.6,GB
+2015,FL,Florida,Health Outcomes,50,40.7,,2015,FL,Florida,Miami,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,36.6,,2015,FL,Florida,Miami,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Miami,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,33.5,,2015,FL,Florida,Miami,Health Outcomes,51,17.9,GC
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Miami,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,40.1,,2015,FL,Florida,Miami,Health Outcomes,51,18.3,HV
+2015,FL,Florida,Health Outcomes,50,35.2,,2015,FL,Florida,Miami,Health Outcomes,51,18.3,HV
+2015,FL,Florida,Health Outcomes,50,34.9,,2015,FL,Florida,Miami,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Miami,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Miami,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Miami,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Miami,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,Miami,Health Outcomes,51,17.9,GC
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Miami,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,Miami,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,35.4,,2015,FL,Florida,Miami,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Miami,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,Miami,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Miami,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,Miami,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Miami,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,Miami,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,35.7,,2015,FL,Florida,Miami,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Miami,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Miami,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,30.4,,2015,FL,Florida,Miami,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,36.5,,2015,FL,Florida,Miami,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,36.2,,2015,FL,Florida,Miami,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,Miami,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,29,,2015,FL,Florida,Miami,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,29.5,,2015,FL,Florida,Miami,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Miami,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,15.6,,2015,FL,Florida,Miami,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,27.1,,2015,FL,Florida,Miami,Health Outcomes,51,8.9,T
+2015,FL,Florida,Health Outcomes,50,21.9,,2015,FL,Florida,Miami,Health Outcomes,51,8.1,ACC
+2015,FL,Florida,Health Outcomes,50,18,,2015,FL,Florida,Miami,Health Outcomes,51,8,HP
+2015,FL,Florida,Health Outcomes,50,12.8,,2015,FL,Florida,Miami,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,14.1,,2015,FL,Florida,Miami,Health Outcomes,51,8.3,IK
+2015,FL,Florida,Health Outcomes,50,15.2,,2015,FL,Florida,Miami,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,21,,2015,FL,Florida,Miami,Health Outcomes,51,8.8,ACH
+2015,FL,Florida,Health Outcomes,50,24.1,,2015,FL,Florida,Miami,Health Outcomes,51,9,E
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Miami,Health Outcomes,51,8.2,ACJ
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Miami,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Miami,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,27.7,,2015,FL,Florida,Miami,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,35.2,,2015,FL,Florida,Miami,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,18.9,,2015,FL,Florida,Miami,Health Outcomes,51,9.3,F
+2015,FL,Florida,Health Outcomes,50,19.1,,2015,FL,Florida,Miami,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,40.1,,2015,FL,Florida,Miami,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,Miami,Health Outcomes,51,8.5,D
+2015,FL,Florida,Health Outcomes,50,33.5,,2015,FL,Florida,Miami,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,26.1,,2015,FL,Florida,Miami Beach,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,27,,2015,FL,Florida,Miami Beach,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,24.6,,2015,FL,Florida,Miami Beach,Health Outcomes,51,8.9,T
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Miami Beach,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Miami Beach,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,28.9,,2015,FL,Florida,Miami Beach,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Miami Beach,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,31.5,,2015,FL,Florida,Miami Beach,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,Miami Beach,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Miami Beach,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Miami Beach,Health Outcomes,51,9.3,F
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,Miami Beach,Health Outcomes,51,8.8,ACH
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Miami Beach,Health Outcomes,51,9,E
+2015,FL,Florida,Health Outcomes,50,26.7,,2015,FL,Florida,Miami Beach,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,Miami Beach,Health Outcomes,51,8.5,D
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Miami Beach,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,25.8,,2015,FL,Florida,Miami Beach,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,23.7,,2015,FL,Florida,Miami Beach,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,17.9,,2015,FL,Florida,Miami Beach,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,21.6,,2015,FL,Florida,Miami Beach,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,23.9,,2015,FL,Florida,Miami Beach,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,25.3,,2015,FL,Florida,Miami Beach,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,18.4,,2015,FL,Florida,Miami Beach,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,23.3,,2015,FL,Florida,Miami Beach,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,24,,2015,FL,Florida,Miami Beach,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,28.9,,2015,FL,Florida,Miami Beach,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,35.3,,2015,FL,Florida,Miami Beach,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Miami Beach,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,20,,2015,FL,Florida,Miami Beach,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Miami Beach,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,8,,2015,FL,Florida,Miami Beach,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,38.1,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,37.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,45,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,42.9,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,44.7,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,41.5,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,19.1,AEE
+2015,FL,Florida,Health Outcomes,50,38.4,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,36.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,40.5,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,40.5,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,39.2,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,37.7,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,49.8,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,38.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,39.3,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,38.2,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,40.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,37.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.6,GB
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,37.6,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,18.7,AEV
+2015,FL,Florida,Health Outcomes,50,33.9,,2015,FL,Florida,Miami Gardens,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,31.3,,2015,FL,Florida,Miramar,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Miramar,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Miramar,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Miramar,Health Outcomes,51,17.7,GK
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Miramar,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,31.2,,2015,FL,Florida,Miramar,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,27,,2015,FL,Florida,Miramar,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Miramar,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,Miramar,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,24.4,,2015,FL,Florida,Miramar,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Miramar,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,22.4,,2015,FL,Florida,Miramar,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,Miramar,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,37.1,,2015,FL,Florida,Miramar,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,34.3,,2015,FL,Florida,Miramar,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,Miramar,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,34.6,,2015,FL,Florida,Miramar,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,Miramar,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Orlando,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Orlando,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,21.5,,2015,FL,Florida,Orlando,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,35,,2015,FL,Florida,Orlando,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,49,,2015,FL,Florida,Orlando,Health Outcomes,51,20.5,ZM
+2015,FL,Florida,Health Outcomes,50,51.5,,2015,FL,Florida,Orlando,Health Outcomes,51,20,NY
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Orlando,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,23.9,,2015,FL,Florida,Orlando,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,Orlando,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,Orlando,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,27.8,,2015,FL,Florida,Orlando,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,43.4,,2015,FL,Florida,Orlando,Health Outcomes,51,18.3,HV
+2015,FL,Florida,Health Outcomes,50,53.6,,2015,FL,Florida,Orlando,Health Outcomes,51,19.1,AEE
+2015,FL,Florida,Health Outcomes,50,48.2,,2015,FL,Florida,Orlando,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,37.5,,2015,FL,Florida,Orlando,Health Outcomes,51,20.3,AGD
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Orlando,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,Orlando,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,40.6,,2015,FL,Florida,Orlando,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Orlando,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,25.5,,2015,FL,Florida,Orlando,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,23.4,,2015,FL,Florida,Orlando,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,31.1,,2015,FL,Florida,Orlando,Health Outcomes,51,9.2,Y
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Orlando,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,33.4,,2015,FL,Florida,Orlando,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,35,,2015,FL,Florida,Orlando,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,39.7,,2015,FL,Florida,Orlando,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Orlando,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,Orlando,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Orlando,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,27.3,,2015,FL,Florida,Orlando,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,41.7,,2015,FL,Florida,Orlando,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,22.3,,2015,FL,Florida,Orlando,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,Orlando,Health Outcomes,51,18.1,AGV
+2015,FL,Florida,Health Outcomes,50,37,,2015,FL,Florida,Orlando,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Orlando,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Orlando,Health Outcomes,51,17.4,KA
+2015,FL,Florida,Health Outcomes,50,26,,2015,FL,Florida,Orlando,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,31.2,,2015,FL,Florida,Orlando,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Orlando,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,22.8,,2015,FL,Florida,Orlando,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,Orlando,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,Orlando,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,Orlando,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,29.5,,2015,FL,Florida,Orlando,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Orlando,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Orlando,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,36.2,,2015,FL,Florida,Orlando,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Orlando,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,15.7,,2015,FL,Florida,Orlando,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,39.2,,2015,FL,Florida,Orlando,Health Outcomes,51,19.9,XQ
+2015,FL,Florida,Health Outcomes,50,51.4,,2015,FL,Florida,Orlando,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,24.5,,2015,FL,Florida,Orlando,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Orlando,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,37.4,,2015,FL,Florida,Orlando,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,26.8,,2015,FL,Florida,Orlando,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,21.6,,2015,FL,Florida,Orlando,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,18.7,,2015,FL,Florida,Orlando,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,19.8,,2015,FL,Florida,Orlando,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,26.5,,2015,FL,Florida,Orlando,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,18.7,,2015,FL,Florida,Orlando,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,24.1,,2015,FL,Florida,Orlando,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,24,,2015,FL,Florida,Orlando,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Orlando,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,56.3,,2015,FL,Florida,Orlando,Health Outcomes,51,7.5,O
+2015,FL,Florida,Health Outcomes,50,20.6,,2015,FL,Florida,Orlando,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,32.6,,2015,FL,Florida,Orlando,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,22.4,,2015,FL,Florida,Orlando,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,15,,2015,FL,Florida,Orlando,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,25.6,,2015,FL,Florida,Orlando,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,24.4,,2015,FL,Florida,Orlando,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,25,,2015,FL,Florida,Orlando,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,27.3,,2015,FL,Florida,Orlando,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,21.7,,2015,FL,Florida,Orlando,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,21.4,,2015,FL,Florida,Orlando,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,47.2,,2015,FL,Florida,Orlando,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,30.7,,2015,FL,Florida,Orlando,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,37.1,,2015,FL,Florida,Orlando,Health Outcomes,51,18.3,HV
+2015,FL,Florida,Health Outcomes,50,45.5,,2015,FL,Florida,Orlando,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,20.1,,2015,FL,Florida,Orlando,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,35.2,,2015,FL,Florida,Orlando,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,33.5,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,36.2,,2015,FL,Florida,Palm Bay,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,41,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,38,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,22.5,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Palm Bay,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Palm Bay,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Palm Bay,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Palm Bay,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Palm Bay,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,36.5,,2015,FL,Florida,Palm Bay,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Palm Bay,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Palm Bay,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Palm Bay,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,29.8,,2015,FL,Florida,Palm Coast,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,37.4,,2015,FL,Florida,Palm Coast,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,43.6,,2015,FL,Florida,Palm Coast,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,39.7,,2015,FL,Florida,Palm Coast,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,41,,2015,FL,Florida,Palm Coast,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,42.6,,2015,FL,Florida,Palm Coast,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Palm Coast,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,37.5,,2015,FL,Florida,Palm Coast,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Palm Coast,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Palm Coast,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,36.1,,2015,FL,Florida,Palm Coast,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,43.4,,2015,FL,Florida,Palm Coast,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,41.8,,2015,FL,Florida,Palm Coast,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,35.8,,2015,FL,Florida,Palm Coast,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,34.5,,2015,FL,Florida,Palm Coast,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Palm Coast,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,42,,2015,FL,Florida,Palm Coast,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,27.9,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,22.8,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,29.8,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,26.3,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,24.9,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,26.8,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,29.1,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,31.6,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,27.7,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,25.7,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,23.8,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,24.2,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,24.7,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,26.4,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,24.7,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,55,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,8.7,AS
+2015,FL,Florida,Health Outcomes,50,58.5,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,22,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,24.6,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,26.2,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,38.5,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,38.4,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Pembroke Pines,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Plantation,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,Plantation,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,24.9,,2015,FL,Florida,Plantation,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,28.2,,2015,FL,Florida,Plantation,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,Plantation,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,31.4,,2015,FL,Florida,Plantation,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,25.5,,2015,FL,Florida,Plantation,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Plantation,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,38,,2015,FL,Florida,Plantation,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,24.7,,2015,FL,Florida,Plantation,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,22.7,,2015,FL,Florida,Plantation,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,29.5,,2015,FL,Florida,Plantation,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,31,,2015,FL,Florida,Plantation,Health Outcomes,51,10.5,M
+2015,FL,Florida,Health Outcomes,50,28.9,,2015,FL,Florida,Plantation,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,24.2,,2015,FL,Florida,Plantation,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,Plantation,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,31.3,,2015,FL,Florida,Plantation,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,Plantation,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Plantation,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Plantation,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,26.2,,2015,FL,Florida,Plantation,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Plantation,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,36.7,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,35.5,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,17.4,KA
+2015,FL,Florida,Health Outcomes,50,29.1,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,18.4,CY
+2015,FL,Florida,Health Outcomes,50,44,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,17.5,AX
+2015,FL,Florida,Health Outcomes,50,49.5,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,17.7,GK
+2015,FL,Florida,Health Outcomes,50,45.5,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,22.6,AMK
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,18.8,AML
+2015,FL,Florida,Health Outcomes,50,36.1,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,18.4,CY
+2015,FL,Florida,Health Outcomes,50,39.5,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,38.8,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,31,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,33.4,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,35.4,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,42.4,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,9.1,AT
+2015,FL,Florida,Health Outcomes,50,41.7,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,7.7,AMX
+2015,FL,Florida,Health Outcomes,50,42.9,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,8.8,ACH
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,41.4,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,8.6,DT
+2015,FL,Florida,Health Outcomes,50,36.7,,2015,FL,Florida,Pompano Beach,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,28.9,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,30.7,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,38.6,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,33,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,31.7,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,37.4,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,15.3,GY
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,32.6,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,30.4,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,36.6,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,27.6,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,38.2,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,27.9,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,26.8,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,28,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,Port St. Lucie,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,40.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,44.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,7,AOE
+2015,FL,Florida,Health Outcomes,50,48.2,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,38.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,37,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.2,N
+2015,FL,Florida,Health Outcomes,50,36.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,40.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,42,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,15.4,GH
+2015,FL,Florida,Health Outcomes,50,29.8,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,45.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,20.5,ZM
+2015,FL,Florida,Health Outcomes,50,45.8,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,47,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,44.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,20.3,AGD
+2015,FL,Florida,Health Outcomes,50,47.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,21.4,XP
+2015,FL,Florida,Health Outcomes,50,41,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,42.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,34.3,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,34.8,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,41.3,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,17.3,IM
+2015,FL,Florida,Health Outcomes,50,29,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,31,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,33.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,33.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,32.3,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,31,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,31.3,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,27,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,16.2,PG
+2015,FL,Florida,Health Outcomes,50,27.8,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,29,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,26.2,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,28,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,30.1,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,26.3,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,8.5,D
+2015,FL,Florida,Health Outcomes,50,32.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,31.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,29,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,28,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14,BK
+2015,FL,Florida,Health Outcomes,50,24.6,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,28.1,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,36.6,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,30.2,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,26.1,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,17.9,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,33.7,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,18.4,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,26.6,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,44.2,,2015,FL,Florida,St. Petersburg,Health Outcomes,51,19.5,AQS
+2015,FL,Florida,Health Outcomes,50,31.1,,2015,FL,Florida,Sunrise,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,33.3,,2015,FL,Florida,Sunrise,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,31.5,,2015,FL,Florida,Sunrise,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,24,,2015,FL,Florida,Sunrise,Health Outcomes,51,12.3,EK
+2015,FL,Florida,Health Outcomes,50,29.5,,2015,FL,Florida,Sunrise,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Sunrise,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,26.8,,2015,FL,Florida,Sunrise,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,27.8,,2015,FL,Florida,Sunrise,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Sunrise,Health Outcomes,51,11.6,AJ
+2015,FL,Florida,Health Outcomes,50,18.7,,2015,FL,Florida,Sunrise,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,29.3,,2015,FL,Florida,Sunrise,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,41.1,,2015,FL,Florida,Sunrise,Health Outcomes,51,18.6,FZ
+2015,FL,Florida,Health Outcomes,50,39.7,,2015,FL,Florida,Sunrise,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,44.4,,2015,FL,Florida,Sunrise,Health Outcomes,51,12.1,CN
+2015,FL,Florida,Health Outcomes,50,34.9,,2015,FL,Florida,Sunrise,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,36.3,,2015,FL,Florida,Sunrise,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,Sunrise,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,49.6,,2015,FL,Florida,Sunrise,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Sunrise,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,50,,2015,FL,Florida,Sunrise,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,23.2,,2015,FL,Florida,Sunrise,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,23.9,,2015,FL,Florida,Sunrise,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,34.5,,2015,FL,Florida,Sunrise,Health Outcomes,51,9.2,Y
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Tallahassee,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,23.3,,2015,FL,Florida,Tallahassee,Health Outcomes,51,15,EV
+2015,FL,Florida,Health Outcomes,50,23.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,26.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,Tallahassee,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,20.5,,2015,FL,Florida,Tallahassee,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,18.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,18.2,XH
+2015,FL,Florida,Health Outcomes,50,11.1,,2015,FL,Florida,Tallahassee,Health Outcomes,51,21.2,IB
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.6,JH
+2015,FL,Florida,Health Outcomes,50,25.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,14.9,EI
+2015,FL,Florida,Health Outcomes,50,22.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,Tallahassee,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,22.9,,2015,FL,Florida,Tallahassee,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,19.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,22.5,,2015,FL,Florida,Tallahassee,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Tallahassee,Health Outcomes,51,21.6,ASF
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.2,CP
+2015,FL,Florida,Health Outcomes,50,28.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.3,ID
+2015,FL,Florida,Health Outcomes,50,40.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,15.2,BQ
+2015,FL,Florida,Health Outcomes,50,33.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.9,XQ
+2015,FL,Florida,Health Outcomes,50,10,,2015,FL,Florida,Tallahassee,Health Outcomes,51,24.6,ASK
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Tallahassee,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,19.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.6,JH
+2015,FL,Florida,Health Outcomes,50,23.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,25,,2015,FL,Florida,Tallahassee,Health Outcomes,51,13.6,L
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,8.6,DT
+2015,FL,Florida,Health Outcomes,50,38.9,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.8,CX
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,28.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,14.5,CS
+2015,FL,Florida,Health Outcomes,50,32.1,,2015,FL,Florida,Tallahassee,Health Outcomes,51,18.8,AML
+2015,FL,Florida,Health Outcomes,50,24.7,,2015,FL,Florida,Tallahassee,Health Outcomes,51,20.1,ASU
+2015,FL,Florida,Health Outcomes,50,15.2,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.9,XQ
+2015,FL,Florida,Health Outcomes,50,10.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,19.6,JH
+2015,FL,Florida,Health Outcomes,50,15.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,18.7,AEV
+2015,FL,Florida,Health Outcomes,50,19.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,13.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,18.3,HV
+2015,FL,Florida,Health Outcomes,50,18.2,,2015,FL,Florida,Tallahassee,Health Outcomes,51,18.9,HX
+2015,FL,Florida,Health Outcomes,50,22.7,,2015,FL,Florida,Tallahassee,Health Outcomes,51,16.7,KE
+2015,FL,Florida,Health Outcomes,50,22.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,25.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,11.2,EN
+2015,FL,Florida,Health Outcomes,50,12,,2015,FL,Florida,Tallahassee,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,20.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,13.3,BR
+2015,FL,Florida,Health Outcomes,50,21.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,29.7,,2015,FL,Florida,Tallahassee,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,26.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Tallahassee,Health Outcomes,51,8.5,D
+2015,FL,Florida,Health Outcomes,50,29.2,,2015,FL,Florida,Tallahassee,Health Outcomes,51,9.1,AT
+2015,FL,Florida,Health Outcomes,50,26.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,8.2,ACJ
+2015,FL,Florida,Health Outcomes,50,23.3,,2015,FL,Florida,Tallahassee,Health Outcomes,51,8.8,ACH
+2015,FL,Florida,Health Outcomes,50,28.7,,2015,FL,Florida,Tallahassee,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,30.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,24,,2015,FL,Florida,Tallahassee,Health Outcomes,51,15.5,AR
+2015,FL,Florida,Health Outcomes,50,25.8,,2015,FL,Florida,Tallahassee,Health Outcomes,51,10.4,AA
+2015,FL,Florida,Health Outcomes,50,22.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,23.3,,2015,FL,Florida,Tallahassee,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,21.6,,2015,FL,Florida,Tallahassee,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,20.4,,2015,FL,Florida,Tallahassee,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,19.1,,2015,FL,Florida,Tallahassee,Health Outcomes,51,9,E
+2015,FL,Florida,Health Outcomes,50,32,,2015,FL,Florida,Tampa,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,30.6,,2015,FL,Florida,Tampa,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,19.2,,2015,FL,Florida,Tampa,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,37.9,,2015,FL,Florida,Tampa,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,41.1,,2015,FL,Florida,Tampa,Health Outcomes,51,20.6,AUB
+2015,FL,Florida,Health Outcomes,50,34.6,,2015,FL,Florida,Tampa,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,Tampa,Health Outcomes,51,18.2,XH
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,Tampa,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,37.7,,2015,FL,Florida,Tampa,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Tampa,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,Tampa,Health Outcomes,51,15.8,AH
+2015,FL,Florida,Health Outcomes,50,32.8,,2015,FL,Florida,Tampa,Health Outcomes,51,16,GR
+2015,FL,Florida,Health Outcomes,50,40.4,,2015,FL,Florida,Tampa,Health Outcomes,51,21.2,IB
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,Tampa,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,33.6,,2015,FL,Florida,Tampa,Health Outcomes,51,17.7,GK
+2015,FL,Florida,Health Outcomes,50,35.5,,2015,FL,Florida,Tampa,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,41.4,,2015,FL,Florida,Tampa,Health Outcomes,51,18.9,HX
+2015,FL,Florida,Health Outcomes,50,47.4,,2015,FL,Florida,Tampa,Health Outcomes,51,17.9,GC
+2015,FL,Florida,Health Outcomes,50,32.6,,2015,FL,Florida,Tampa,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,35.2,,2015,FL,Florida,Tampa,Health Outcomes,51,18.2,XH
+2015,FL,Florida,Health Outcomes,50,35.3,,2015,FL,Florida,Tampa,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,33.2,,2015,FL,Florida,Tampa,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Tampa,Health Outcomes,51,14.6,EZ
+2015,FL,Florida,Health Outcomes,50,27.3,,2015,FL,Florida,Tampa,Health Outcomes,51,14.2,DA
+2015,FL,Florida,Health Outcomes,50,33.1,,2015,FL,Florida,Tampa,Health Outcomes,51,14.8,FI
+2015,FL,Florida,Health Outcomes,50,45.5,,2015,FL,Florida,Tampa,Health Outcomes,51,20.3,AGD
+2015,FL,Florida,Health Outcomes,50,47.3,,2015,FL,Florida,Tampa,Health Outcomes,51,18.9,HX
+2015,FL,Florida,Health Outcomes,50,46.5,,2015,FL,Florida,Tampa,Health Outcomes,51,19.2,CP
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Tampa,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,30,,2015,FL,Florida,Tampa,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Tampa,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,35.3,,2015,FL,Florida,Tampa,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,Tampa,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,30.8,,2015,FL,Florida,Tampa,Health Outcomes,51,21.2,IB
+2015,FL,Florida,Health Outcomes,50,37.2,,2015,FL,Florida,Tampa,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,32.2,,2015,FL,Florida,Tampa,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,Tampa,Health Outcomes,51,15.9,AM
+2015,FL,Florida,Health Outcomes,50,40.5,,2015,FL,Florida,Tampa,Health Outcomes,51,21.4,XP
+2015,FL,Florida,Health Outcomes,50,42.7,,2015,FL,Florida,Tampa,Health Outcomes,51,18.9,HX
+2015,FL,Florida,Health Outcomes,50,43.8,,2015,FL,Florida,Tampa,Health Outcomes,51,17.7,GK
+2015,FL,Florida,Health Outcomes,50,44.2,,2015,FL,Florida,Tampa,Health Outcomes,51,19.3,ID
+2015,FL,Florida,Health Outcomes,50,46.8,,2015,FL,Florida,Tampa,Health Outcomes,51,20.4,AVM
+2015,FL,Florida,Health Outcomes,50,48.6,,2015,FL,Florida,Tampa,Health Outcomes,51,18.5,JB
+2015,FL,Florida,Health Outcomes,50,44,,2015,FL,Florida,Tampa,Health Outcomes,51,20,NY
+2015,FL,Florida,Health Outcomes,50,34.2,,2015,FL,Florida,Tampa,Health Outcomes,51,23.3,AVP
+2015,FL,Florida,Health Outcomes,50,44.1,,2015,FL,Florida,Tampa,Health Outcomes,51,18.1,AGV
+2015,FL,Florida,Health Outcomes,50,34,,2015,FL,Florida,Tampa,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,68.3,,2015,FL,Florida,Tampa,Health Outcomes,51,18.1,AGV
+2015,FL,Florida,Health Outcomes,50,42.9,,2015,FL,Florida,Tampa,Health Outcomes,51,18.4,CY
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,Tampa,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,45.1,,2015,FL,Florida,Tampa,Health Outcomes,51,27.1,AVV
+2015,FL,Florida,Health Outcomes,50,41.9,,2015,FL,Florida,Tampa,Health Outcomes,51,16.8,HA
+2015,FL,Florida,Health Outcomes,50,37.5,,2015,FL,Florida,Tampa,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,31.8,,2015,FL,Florida,Tampa,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,32.7,,2015,FL,Florida,Tampa,Health Outcomes,51,12.6,DM
+2015,FL,Florida,Health Outcomes,50,34.7,,2015,FL,Florida,Tampa,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,23.4,,2015,FL,Florida,Tampa,Health Outcomes,51,12.8,BZ
+2015,FL,Florida,Health Outcomes,50,19,,2015,FL,Florida,Tampa,Health Outcomes,51,17,CR
+2015,FL,Florida,Health Outcomes,50,24.4,,2015,FL,Florida,Tampa,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,19.5,,2015,FL,Florida,Tampa,Health Outcomes,51,8.8,ACH
+2015,FL,Florida,Health Outcomes,50,12.6,,2015,FL,Florida,Tampa,Health Outcomes,51,9,E
+2015,FL,Florida,Health Outcomes,50,33.9,,2015,FL,Florida,Tampa,Health Outcomes,51,17.2,AG
+2015,FL,Florida,Health Outcomes,50,26.3,,2015,FL,Florida,Tampa,Health Outcomes,51,8.5,D
+2015,FL,Florida,Health Outcomes,50,20.7,,2015,FL,Florida,Tampa,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,22.6,,2015,FL,Florida,Tampa,Health Outcomes,51,9.7,X
+2015,FL,Florida,Health Outcomes,50,26.9,,2015,FL,Florida,Tampa,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,Tampa,Health Outcomes,51,8.4,AWL
+2015,FL,Florida,Health Outcomes,50,24.4,,2015,FL,Florida,Tampa,Health Outcomes,51,9.4,G
+2015,FL,Florida,Health Outcomes,50,23.5,,2015,FL,Florida,Tampa,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,32.9,,2015,FL,Florida,Tampa,Health Outcomes,51,8.9,T
+2015,FL,Florida,Health Outcomes,50,22.5,,2015,FL,Florida,Tampa,Health Outcomes,51,9.9,H
+2015,FL,Florida,Health Outcomes,50,24.2,,2015,FL,Florida,Tampa,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,29,,2015,FL,Florida,Tampa,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,33.9,,2015,FL,Florida,Tampa,Health Outcomes,51,12.7,GE
+2015,FL,Florida,Health Outcomes,50,28.5,,2015,FL,Florida,Tampa,Health Outcomes,51,10.9,BT
+2015,FL,Florida,Health Outcomes,50,29.8,,2015,FL,Florida,Tampa,Health Outcomes,51,11.4,FD
+2015,FL,Florida,Health Outcomes,50,27.7,,2015,FL,Florida,Tampa,Health Outcomes,51,10.2,S
+2015,FL,Florida,Health Outcomes,50,27.2,,2015,FL,Florida,Tampa,Health Outcomes,51,11.9,CA
+2015,FL,Florida,Health Outcomes,50,30.2,,2015,FL,Florida,Tampa,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,27.8,,2015,FL,Florida,Tampa,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,29.9,,2015,FL,Florida,Tampa,Health Outcomes,51,12.9,BF
+2015,FL,Florida,Health Outcomes,50,27.9,,2015,FL,Florida,Tampa,Health Outcomes,51,16.3,EE
+2015,FL,Florida,Health Outcomes,50,18.2,,2015,FL,Florida,Tampa,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,30.5,,2015,FL,Florida,Tampa,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,27.4,,2015,FL,Florida,Tampa,Health Outcomes,51,13.1,AO
+2015,FL,Florida,Health Outcomes,50,16.7,,2015,FL,Florida,Tampa,Health Outcomes,51,13.5,ET
+2015,FL,Florida,Health Outcomes,50,22.7,,2015,FL,Florida,Tampa,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,23.7,,2015,FL,Florida,Tampa,Health Outcomes,51,12,AV
+2015,FL,Florida,Health Outcomes,50,26.1,,2015,FL,Florida,Tampa,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,24.3,,2015,FL,Florida,Tampa,Health Outcomes,51,9.5,J
+2015,FL,Florida,Health Outcomes,50,35.9,,2015,FL,Florida,Tampa,Health Outcomes,51,17.1,AW
+2015,FL,Florida,Health Outcomes,50,9.4,,2015,FL,Florida,Tampa,Health Outcomes,51,17.5,AX
+2015,FL,Florida,Health Outcomes,50,8.2,,2015,FL,Florida,Tampa,Health Outcomes,51,17.8,OP
+2015,FL,Florida,Health Outcomes,50,20,,2015,FL,Florida,Tampa,Health Outcomes,51,10,Z
+2015,FL,Florida,Health Outcomes,50,22.3,,2015,FL,Florida,Tampa,Health Outcomes,51,13.8,AD
+2015,FL,Florida,Health Outcomes,50,22,,2015,FL,Florida,Tampa,Health Outcomes,51,9.6,CE
+2015,FL,Florida,Health Outcomes,50,20.6,,2015,FL,Florida,Tampa,Health Outcomes,51,10.8,CD
+2015,FL,Florida,Health Outcomes,50,16.4,,2015,FL,Florida,Tampa,Health Outcomes,51,12.5,AN
+2015,FL,Florida,Health Outcomes,50,22.4,,2015,FL,Florida,Tampa,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,22.3,,2015,FL,Florida,Tampa,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,31.3,,2015,FL,Florida,Tampa,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,26.2,,2015,FL,Florida,Tampa,Health Outcomes,51,10.7,C
+2015,FL,Florida,Health Outcomes,50,15.1,,2015,FL,Florida,Tampa,Health Outcomes,51,11,R
+2015,FL,Florida,Health Outcomes,50,35.8,,2015,FL,Florida,Tampa,Health Outcomes,51,13.9,LC
+2015,FL,Florida,Health Outcomes,50,28.8,,2015,FL,Florida,Tampa,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,21.6,,2015,FL,Florida,Tampa,Health Outcomes,51,14.1,ED
+2015,FL,Florida,Health Outcomes,50,34.1,,2015,FL,Florida,Tampa,Health Outcomes,51,18,IR
+2015,FL,Florida,Health Outcomes,50,28.8,,2015,FL,Florida,Tampa,Health Outcomes,51,14.7,GZ
+2015,FL,Florida,Health Outcomes,50,52.8,,2015,FL,Florida,Tampa,Health Outcomes,51,15.1,BI
+2015,FL,Florida,Health Outcomes,50,43.4,,2015,FL,Florida,Tampa,Health Outcomes,51,18.2,XH
+2015,FL,Florida,Health Outcomes,50,30.3,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,13.7,ES
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,13.4,AB
+2015,FL,Florida,Health Outcomes,50,31.9,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,16.1,GA
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,20.6,AUB
+2015,FL,Florida,Health Outcomes,50,37.8,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,17.6,IX
+2015,FL,Florida,Health Outcomes,50,34.8,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,40.9,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,16.6,NI
+2015,FL,Florida,Health Outcomes,50,34.3,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,10.6,B
+2015,FL,Florida,Health Outcomes,50,28.3,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,26.6,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,13.2,BS
+2015,FL,Florida,Health Outcomes,50,28.6,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,31.7,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,10.1,KM
+2015,FL,Florida,Health Outcomes,50,21.9,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,11.3,CO
+2015,FL,Florida,Health Outcomes,50,22.6,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,11.8,OC
+2015,FL,Florida,Health Outcomes,50,25.9,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,14.3,BG
+2015,FL,Florida,Health Outcomes,50,35.1,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,14.4,CG
+2015,FL,Florida,Health Outcomes,50,48.2,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,15.7,AI
+2015,FL,Florida,Health Outcomes,50,44.5,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,19.4,MP
+2015,FL,Florida,Health Outcomes,50,34.4,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,16.5,CZ
+2015,FL,Florida,Health Outcomes,50,41.4,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,18.5,JB
+2015,FL,Florida,Health Outcomes,50,27,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,11.5,AK
+2015,FL,Florida,Health Outcomes,50,27.7,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,11.1,K
+2015,FL,Florida,Health Outcomes,50,22.9,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,12.4,CF
+2015,FL,Florida,Health Outcomes,50,32.5,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,16.9,IY
+2015,FL,Florida,Health Outcomes,50,27.5,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,11.7,U
+2015,FL,Florida,Health Outcomes,50,29.4,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,13,AE
+2015,FL,Florida,Health Outcomes,50,30.9,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,16.4,KB
+2015,FL,Florida,Health Outcomes,50,36.4,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,8.7,AS
+2015,FL,Florida,Health Outcomes,50,29.6,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,10.3,EB
+2015,FL,Florida,Health Outcomes,50,36,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,9.8,V
+2015,FL,Florida,Health Outcomes,50,35.6,,2015,FL,Florida,West Palm Beach,Health Outcomes,51,7.9,Q
